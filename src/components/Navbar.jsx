@@ -1,4 +1,4 @@
-import React, { useState } from 'react';  //นำเข้าไลบรารี React และดึง useState hook จาก React เพื่อใช้สำหรับเก็บสถานะ (state) ภายในคอมโพเนนต์แบบฟังก์ชัน
+import { useState } from 'react';  //ดึง useState hook จาก React
 import Logo from '.././assets/img/logo-black.png';
 import { FaBars } from 'react-icons/fa';
 
